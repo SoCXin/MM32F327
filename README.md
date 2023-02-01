@@ -34,4 +34,6 @@
 
 [MM32SPIN580C](https://item.szlcsc.com/5842748.html)相对MM32SPIN560C的60v预驱电压,最大支持到220V，相对MM32SPIN380C最高85℃工作温度，最高支持到105℃，可直接应用于110v供电的项目。
 
+集成度更高的电机驱动产品还有[MM32SPIN422C](https://github.com/SoCXin/MM32SPIN422C)，支持20V 1.5A电机控制
+
 ## [www.SoC.xin](http://www.SoC.Xin)
